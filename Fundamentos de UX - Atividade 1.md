@@ -1,19 +1,56 @@
 # Atividade 1
-![image](https://github.com/UdielOliveira/Curso-Italents-User-Experience/assets/113556350/80786cac-3816-4662-91a2-1514709f6514)
+![image](https://github.com/UdielOliveira/Curso-Italents-User-Experience/assets/113556350/03884a48-13cd-4233-96c6-8d537d794f64)
 
-https://app.asana.com
-# Pontos Positivos
+https://www.notion.so/product
+#
+# Pontos Positivos✅
 
-O Asana é uma plataforma abrangente de gerenciamento de trabalho que possibilita a organização e o controle eficientes de projetos e tarefas online. Com diversas visualizações de projeto disponíveis, as equipes podem escolher a que melhor se adequa ao seu estilo de trabalho, enquanto desfrutam da colaboração em tempo real a partir de qualquer lugar. Além disso, o Asana oferece recursos positivos, como automação de tarefas rotineiras, centralização de todas as atividades da equipe em um único espaço compartilhado, geração de relatórios detalhados e integração com mais de 200 outras ferramentas, proporcionando uma experiência altamente versátil e produtiva para as equipes.
+<strong>Flexibilidade</strong>: O Notion oferece uma interface flexível e personalizável que permite aos usuários criar e organizar seus próprios layouts e estruturas de página de acordo com suas necessidades. Isso permite uma experiência altamente adaptável e personalizada.
 
-# Pontos Negativos
+<strong>Recursos poderosos</strong>: O Notion oferece uma ampla gama de funcionalidades, incluindo listas de tarefas, banco de dados, calendário, biblioteca de mídia e muito mais. Essa variedade de recursos torna o Notion adequado para diversos casos de uso, desde o gerenciamento de projetos até a organização pessoal. No meu caso, utilizo o Notion para organizar minhas matérias escolares, o que demonstra a versatilidade da ferramenta.
 
-Embora o Asana seja uma ferramenta popular de gerenciamento de projetos, existem alguns aspectos negativos a serem considerados. Um deles é o limite de 15 usuários, o que pode restringir o uso da plataforma em equipes maiores. Além disso, o processo de adaptação ao Asana pode ser mais demorado e complicado, pois a interface pode parecer complexa para usuários novos, especialmente devido à quantidade de informações exibidas na tela e à ocultação de algumas ferramentas. Esses fatores podem dificultar a adaptabilidade e afastar os usuários do aplicativo web Asana. Uma alternativa que se destaca em relação ao Asana é o <strong> Notion </strong>(https://www.notion.so), especialmente no quesito interface. O Notion oferece uma experiência mais intuitiva e amigável ao usuário na hora de montar um projeto. Além disso, uma vantagem significativa é a capacidade de ter um número muito maior de pessoas colaborando em um projeto, sem a limitação de apenas 15 usuários imposta pelo Asana. Essa flexibilidade torna o Notion uma escolha atraente para equipes maiores que buscam uma plataforma de gerenciamento de projetos mais aberta e inclusiva.
+<strong>Integração e Colaboração</strong>: O Concept oferece suporte à colaboração em tempo real e facilita o trabalho em equipe. Os usuários podem compartilhar páginas e documentos, permitindo que várias pessoas trabalhem juntas e vejam as alterações em tempo real. Além disso, o Notion oferece integrações com outras ferramentas populares como Slack, Google Drive e Trello.
 
-# Como ele Poderia ser Melhorado
+<strong>Interface intuitiva</strong>: A interface do Notion é intuitiva e fácil de usar, com recursos de arrastar e soltar que simplificam a criação e organização de conteúdo. Isso facilita a curva de aprendizado para novos usuários e agiliza o trabalho no Notion
 
-Aumentar o limite de usuários para acomodar equipes maiores, simplificar a interface para torná-la mais intuitiva e amigável ao usuário, melhorar a usabilidade através de tutoriais interativos e dicas contextuais, aprimorar a visibilidade das ferramentas através de um design mais claro e organização lógica, e oferecer planos mais flexíveis para atender às diversas necessidades dos usuários.
+# IA do Notion🤖
 
-# Público-alvo
+<strong>Geração automática de sumários e resumos</strong>: A inteligência artificial do Notion é capaz de analisar o conteúdo de um documento e gerar automaticamente um sumário ou resumo com base nas seções, tópicos ou marcadores presentes. Isso facilita a navegação e a compreensão do documento, economizando tempo e esforço na criação manual desses elementos.
 
-Asana é direcionado a gerentes de projetos, equipes de desenvolvimento, equipes de marketing, profissionais autônomos e qualquer pessoa que precise coordenar e acompanhar tarefas, prazos e projetos de forma eficiente. Como no meu caso que eu uso para gerenciar projetos pessoais de estudo.
+<strong>Escrita assistida por IA</strong>: O Notion utiliza IA para fornecer sugestões e completar automaticamente frases e parágrafos enquanto o usuário digita. Essa funcionalidade de autocompletar pode acelerar a velocidade de escrita, oferecendo sugestões relevantes com base no contexto do documento.
+
+<strong>Geração de relatórios automatizados</strong>: A IA do Notion também permite criar relatórios automatizados a partir dos dados e informações contidos nos documentos. Com base em modelos predefinidos ou personalizados, a plataforma é capaz de extrair e sintetizar os dados relevantes para gerar relatórios precisos e atualizados automaticamente.
+
+# Pontos Negativos🟥
+
+<strong>Curva de aprendizado inicial</strong>: embora a interface do Notion seja geralmente intuitiva, a ferramenta possui uma ampla gama de recursos e opções de personalização. Pode levar algum tempo para que os usuários se familiarizem totalmente com todos os recursos e os usem em todo o seu potencial.
+
+<strong>Baixo desempenho em páginas complexas</strong>: Em páginas com um grande número de elementos e conteúdo, o desempenho do Notion pode ser prejudicado. Às vezes, pode ocorrer lentidão ao carregar e editar essas páginas, o que pode ser frustrante para usuários que trabalham com documentos grandes e complexos.
+
+<strong>Limitações da versão gratuita</strong>: Embora o Notion ofereça uma versão gratuita, ela possui algumas limitações, como o número de blocos que podem ser adicionados e o tamanho máximo de upload de arquivo. Para aproveitar ao máximo os recursos do Notion, os usuários podem precisar atualizar para um plano pago.
+
+<strong>Interface móvel menos otimizada</strong>: Embora o Notion tenha aplicativos móveis para Android e iOS, alguns usuários relataram que a interface móvel não é tão otimizada e amigável quanto a versão para desktop. Isso pode dificultar o uso do Notion em dispositivos móveis.
+
+# Como ele Poderia ser Melhorado❇️
+
+<strong>Melhore o desempenho em páginas complexas</strong>: Invista em otimizações para garantir um desempenho mais rápido e responsivo, mesmo em páginas com muito conteúdo. Isso ajudará os usuários com documentos grandes e complexos a terem uma experiência mais tranquila.
+
+<strong>Melhore a curva de aprendizado inicial</strong>: crie recursos tutoriais interativos, guias passo a passo ou vídeos de instruções para ajudar os usuários a dominar rapidamente todos os recursos e funções do Notion. Isso ajuda os novos usuários a aproveitar ao máximo a ferramenta desde o início.
+
+<strong>Maiores opções de versão gratuita</strong>: considere expandir os limites da versão gratuita do Notion, como permitir mais blocos ou aumentar o tamanho máximo de upload de arquivo. Isso fornecerá uma experiência mais completa para os usuários que ainda não estão prontos para adquirir um plano pago.
+
+<strong>Interface móvel aprimorada</strong>: investimos na melhoria da interface móvel do Notion para torná-la mais otimizada e compatível com dispositivos móveis. Isso permitirá que os usuários usem o Notion de forma mais eficaz em smartphones e tablets.
+
+<strong>Continue a expandir as integrações</strong>: continue a desenvolver integrações com outras ferramentas populares, expandindo as opções de conectividade do Notion. Isso permitirá que os usuários se conectem e sincronizem seu fluxo de trabalho com outras plataformas e serviços que usam diariamente.
+
+<strong>Colaboração aprimorada em tempo real</strong>: Melhorias adicionais nos recursos de colaboração em tempo real permitem que os usuários colaborem com mais eficiência com recursos adicionais, como sinalização de comentários, controle de alterações e atribuição de tarefas
+
+# Público-alvo🎯
+
+<strong>Profissionais e equipes de produtividade</strong>: O Notion é adequado para profissionais, freelancers, estudantes e equipes que desejam organizar e gerenciar suas tarefas, projetos, notas e documentos de forma eficiente. Ele oferece recursos de colaboração em tempo real, integração com outras ferramentas populares e flexibilidade para personalizar fluxos de trabalho.
+
+<strong>Gerentes de projeto</strong>: O Notion é útil para gerentes de projeto que precisam acompanhar tarefas, atribuições, prazos e documentos relacionados a projetos. A capacidade de criar painéis personalizados, adicionar listas de tarefas e visualizar o progresso torna o Notion uma escolha conveniente para o gerenciamento de projetos.
+
+<strong>Profissionais de criação de conteúdo</strong>: Escritores, blogueiros, redatores e outros profissionais de criação de conteúdo podem utilizar o Notion para criar, organizar e revisar seu conteúdo. Recursos como autocompletar de texto, formatação flexível e a capacidade de criar uma estrutura de conteúdo coesa são benefícios úteis para esses usuários.
+
+<strong>Estudantes e acadêmicos</strong>: O Notion, é uma ferramenta valiosa para fazer anotações, organizar materiais de estudo, criar agendas e gerenciar projetos acadêmicos. Essa ferramenta é especialmente útil para a categoria de usuários à qual pertenço, pois permite integrar e relacionar informações de diferentes disciplinas e materiais de referência, tornando o processo de estudo mais eficiente e organizado.
