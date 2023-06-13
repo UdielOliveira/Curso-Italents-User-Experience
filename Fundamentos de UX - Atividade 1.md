@@ -54,3 +54,9 @@ https://www.notion.so/product
 <strong>Profissionais de criação de conteúdo</strong>: Escritores, blogueiros, redatores e outros profissionais de criação de conteúdo podem utilizar o Notion para criar, organizar e revisar seu conteúdo. Recursos como autocompletar de texto, formatação flexível e a capacidade de criar uma estrutura de conteúdo coesa são benefícios úteis para esses usuários.
 
 <strong>Estudantes e acadêmicos</strong>: O Notion, é uma ferramenta valiosa para fazer anotações, organizar materiais de estudo, criar agendas e gerenciar projetos acadêmicos. Essa ferramenta é especialmente útil para a categoria de usuários à qual pertenço, pois permite integrar e relacionar informações de diferentes disciplinas e materiais de referência, tornando o processo de estudo mais eficiente e organizado.
+
+# Considerações Finais✨
+
+Em resumo, aprecio as cores utilizadas no Notion, pois elas me transmitem uma sensação de organização, ao mesmo tempo que evitam a monotonia. A falta de uma variedade excessiva de cores proporciona uma sensação confortável ao escrever e trabalhar. As funcionalidades do aplicativo são intuitivas, embora, inicialmente, tenha precisado recorrer a tutoriais online para aprender a utilizá-lo. No entanto, consegui me adaptar e, atualmente, sinto que o uso constante do app me proporciona uma organização aprimorada. Além disso, a constante implementação de novas funcionalidades pelo Notion torna a organização e o gerenciamento mais fáceis e limpos, evitando a sobrecarga de botões, funcionalidades e cores em todos os lugares. Isso traz um conforto significativo ao trabalhar, estudar, se organizar, entre outros. No entanto, como acontece com qualquer aplicativo, tenho algumas críticas e sugestões de melhorias para o Notion no futuro, as quais espero que eles considerem e implementem ao longo do tempo.
+
+Ass: Udiel
