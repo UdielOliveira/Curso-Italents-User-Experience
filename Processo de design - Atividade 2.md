@@ -1,7 +1,5 @@
 # Atividade 2
 
-## Olá Boa Tarde!!
-
 # Fase de Imersão:
 
 Realizamos uma pesquisa detalhada sobre o Notion, analisando seus pontos fortes e fracos. Identificamos que o Notion é um aplicativo poderoso para organização e produtividade, mas pode ser complexo para usuários iniciantes. Também identificamos a necessidade de uma interface mais intuitiva e uma melhor integração entre diferentes tipos de conteúdo. Conversamos com usuários do Notion para entender suas principais dores e oportunidades de melhoria.
