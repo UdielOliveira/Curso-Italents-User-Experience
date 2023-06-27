@@ -1,6 +1,5 @@
 # Atividade 2
 
-#
 ## Olá Boa Tarde!!
 
 # Fase de Imersão:
