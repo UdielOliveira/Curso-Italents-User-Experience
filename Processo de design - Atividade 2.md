@@ -1,7 +1,5 @@
 # Atividade 2
-![image](https://github.com/UdielOliveira/Curso-Italents-User-Experience/assets/113556350/03884a48-13cd-4233-96c6-8d537d794f64)
 
-https://www.notion.so/product
 #
 ## Olá Boa Tarde!!
 
